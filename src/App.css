@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header__title {
+    display: inline;
+    font-size: 3rem;
+    color: white;
+    justify-content: center;
+
+}

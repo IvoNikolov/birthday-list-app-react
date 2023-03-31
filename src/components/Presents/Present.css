@@ -1,0 +1,28 @@
+.present {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: #4B0082;
+    ;
+  }
+
+  .present h2 {
+    font-size: 2rem;
+    flex: 1;
+    margin: 1rem 0;
+    color: white;
+  }
+
+  
+  .present__description {
+   margin-left: 1rem;
+  }
+
+  .present__currency {
+    margin-left: auto;
+  }
+  
+
+
+ 
