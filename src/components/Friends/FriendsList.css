@@ -6,9 +6,12 @@
     max-width: 95%;
   }
   
-
-
   .friends-list h2 {
     color: white;
     font-size: 2rem;
+  }
+
+  .friends-list__empty {
+    color: white;
+    font-size: 1.6rem;
   }
